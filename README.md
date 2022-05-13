@@ -11,7 +11,7 @@
 ## I'm a Student, Web Developer, and Programmer!!!
 
 - ✔All of my projects are well managed and well organized
-- 🤝Currently, looking forward to join a team
+- 🤝Currently, I am in Team Forwrd
 - 🥅2022 Goals: Applying my knowledge and becoming Master in Data Structures and Algorithms
 - 🎸Fun fact: I love to play guitar
 - 🏫Education: Studying Computer Science and Engineering at American International University-Bangladesh (AIUB)
