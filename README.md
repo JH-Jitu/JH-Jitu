@@ -11,10 +11,10 @@
 ## I'm a Student, Web Developer, and Programmer!!!
 
 - ✔All of my projects are well managed and well organized
-- 🤝Currently, I am a Software Developer of Hire With LEO
-- 🥅2023 Goals: Applying my knowledge and becoming Master in Data Structures and Algorithms
+- 🤝Currently, I am a Software Developer of Plac-D
+- 🥅2025 Goals: Applying my knowledge and becoming Master in Data Structures and Algorithms
 - 🎸Fun fact: I love to play guitar
-- 🏫Education: Studying Computer Science and Engineering at American International University-Bangladesh (AIUB)
+- 🏫Education: BSc in Computer Science and Engineering at American International University-Bangladesh (AIUB) - GRADUATED - CGPA 3.92
 
 <hr/>
 
