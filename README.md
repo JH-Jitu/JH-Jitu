@@ -6,7 +6,7 @@
 <!-- TYPING SVG -->
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Software+Engineer+%7C+AI+%26+ML+Enthusiast;Full+Stack+Developer+%7C+CS+Graduate+%E2%80%94+CGPA+3.92%2F4.00;Building+Scalable+Systems+%26+Exploring+AI+Safety)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=60&lines=Software+Engineer+%7C+AI+%26+ML+Enthusiast)](https://git.io/typing-svg)
 
 <!-- SOCIAL BADGES -->
 <br/>
@@ -195,24 +195,24 @@ Contributed to engineering production-grade systems across web and mobile platfo
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=JH-Jitu&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true" alt="GitHub Stats" />
+<!-- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=JH-Jitu&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true" alt="GitHub Stats" /> -->
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=JH-Jitu&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak" />
 
 <br/>
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JH-Jitu&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=10" alt="Top Languages" />
+<!-- <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JH-Jitu&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=10" alt="Top Languages" /> -->
 
 </div>
 
 ---
 
-## 🏆 &nbsp;GitHub Trophies
+<!-- ## 🏆 &nbsp;GitHub Trophies
 
 <div align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=JH-Jitu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-</div>
+</div> -->
 
 ---
 
@@ -234,7 +234,7 @@ Contributed to engineering production-grade systems across web and mobile platfo
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JH-Jitu/JH-Jitu/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JH-Jitu/JH-Jitu/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/JH-Jitu/JH-Jitu/output/github-snake-dark.svg" />
+  <!-- <img alt="github-snake" src="https://raw.githubusercontent.com/JH-Jitu/JH-Jitu/output/github-snake-dark.svg" /> -->
 </picture>
 
 </div>
