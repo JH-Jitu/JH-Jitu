@@ -15,7 +15,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jhjitu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhjitu/)
 [![Gmail](https://img.shields.io/badge/Gmail-jitu000166-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jitu000166@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-JH--Jitu-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JH-Jitu)
-[![X](<https://img.shields.io/badge/X_(Twitter)-@JHJitu-000000?style=for-the-badge&logo=x&logoColor=white>)](https://x.com/)
+[![X](<https://img.shields.io/badge/X_(Twitter)-@JHJitu-000000?style=for-the-badge&logo=x&logoColor=white>)](https://x.com/jitu000166)
 
 <br/>
 
@@ -42,7 +42,7 @@ education:
 
 current_roles:
   - Software Developer @ ShiftLayer
-  - Technical Consultant @ DevBucket
+  - Technical Consultant @ DevBucket (Part-Time)
 
 interests:
   - AI Safety & Alignment
@@ -78,7 +78,7 @@ Part of a team building decentralised AI benchmarking infrastructure on the **Bi
 </td>
 <td>
 
-**Technical Consultant** — _DevBucket_ &nbsp;🏢 Hybrid  
+**Technical Consultant** — _DevBucket_ &nbsp;🏢 Hybrid (Part-Time)  
 `Nov 2025 – Present`  
 Providing technical consultation on feature planning, promotional logic, architecture and product decisions across multiple business products.  
 🔗 [DevBucket](https://www.devbucket.co)
